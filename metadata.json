@@ -1,0 +1,6 @@
+{
+  "name": "AnimAI Wallpapers",
+  "description": "High-quality anime AI wallpapers with upscaled visuals, multi-style art studio, and daily auto-changing backgrounds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

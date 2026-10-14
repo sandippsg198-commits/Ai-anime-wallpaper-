@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AnimAI Wallpapers</string>
+    <string name="nav_discover">Discover</string>
+    <string name="nav_styles">Art Styles</string>
+    <string name="nav_generator">AI Studio</string>
+    <string name="nav_auto">Auto-Wallpaper</string>
+    <string name="nav_favorites">Saved</string>
+    <string name="btn_set_wallpaper">Set Wallpaper</string>
+    <string name="btn_upscale">Upscale 4K</string>
+    <string name="btn_download">Download</string>
+</resources>
